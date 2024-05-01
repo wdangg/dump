@@ -1,0 +1,16 @@
+30/04/2024:
+Tú:
+	+ Rèn đi bộ (đã đi xa là phải có thể lực, chủ yếu đi bộ hoặc ngồi xe, cần sự bền bỉ)
+	+ Cài Sourcetree, Git, Notepad++, tạo acc Github (công cự lưu trữ, sync nhiều người và quản lí files)
+	+ Cài Github trên điện thoại
+	+ Tìm hiểu tham quan cửa khẩu TQ (video youtube + TÌM HIỂU LUẬT, Phải thật chắc luật)
+		* Luật (nhất quyết k đc vi phạm luật pháp)
+		* Chi phí (tính toán chi phí, nghiệp vụ kế toán)
+		* Lộ trình (đường đi và tính toán ước lượng thời gian từng quãng) ->tập lên kế hoạch, ước lượng 
+	+ Tiếng TQ
+	
+Xây dựng biên bản:
+	+ Chuẩn bị (tài chính, vật tư, con người, tác phong, kế hoạch đi đứng)
+	+ Thực hành (lên thời gian biểu, kế hoạch quãng nhỏ)
+	+ Đánh giá (hiệu quả chuyến đi, nên có trc milestone và đánh giá H thực tế theo milestone)
+	+ Rút kinh nghiệm (nên có meeting 15-20p để rút kinh nghiệm và đưa ra ý kiến khắc phục khó khăn trong chuyến đi)

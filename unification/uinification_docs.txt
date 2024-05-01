@@ -1,0 +1,7 @@
+Thống nhất
+- Sử dụng file .txt để lên kế hoạch
+- Với các văn bản đánh giá, sử dụng word
+- với các files:
+	+ đểu có ngày tháng năm trong file
+	+ tên file đặt dạng [tênfolder_mô tả ngắn về file]
+	
